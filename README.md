@@ -1,0 +1,2 @@
+# banking_CLV_CRM
+Project for customer management in the Marketing Analytics Department of a large retail bank.  The aim of this project is to know which marketing activity effectively retains customers. We have information about individual customer profitability (CLV) and a survey was conducted as well.  A research model explaining/predicting individual customer profitability is expected, along with a theoretical rational for these hypotheses and test the hypotheses. Multiple independent variables very tried to come up with some meaningful conclusions. 
