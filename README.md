@@ -12,3 +12,4 @@ This data helped in doing a descriptive analysis and find out which customer att
 The following report describes the various data analysis models used and the reasons why they were chosen and also compares the results obtained from them and finally makes recommendations with the best suited model.  
 The models are built using a bottom-up approach, starting from the single variable, and then adding complexities to it, so as to enhance the predictive accuracy while maintaining the significance of variables. 
 Also, the models are designed on approximately 70% of the data-points and validated on the remaining 30%, this helps us in proving the robustness of the model, and its applicability to new-unseen data. These scales are chosen as per conventional prevalence. Choice of this split was empirical.
+ 
